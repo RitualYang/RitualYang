@@ -16,5 +16,20 @@ Coding for curiosity, for creation, and for the fun of solving hard problems.
 
 ---
 
+## 📊 GitHub Stats
+
+> 🛠️ Always tinkering, always shipping.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitualYang&show_icons=true&theme=radical&count_private=true&hide_rank=false" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitualYang&theme=radical&hide_border=true" alt="Streak Stats" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitualYang&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="60%" />
+</p>
+
+---
+
 > 🌱 Exploring the intersection of Web3 & AI — one experiment at a time.  
 > 🔥 Keep learning. Keep building. Keep the spark alive.
